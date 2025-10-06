@@ -1,4 +1,14 @@
 p {
-    color: burlywood;
+    color: rgb(129, 141, 206); 
 
+}
+
+#about1{
+
+    background-color: purple;
+}
+
+#about2{
+
+    background-color: rgb(152, 22, 94);
 }
