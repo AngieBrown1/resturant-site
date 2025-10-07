@@ -1,8 +1,8 @@
 .menu h2{
     color:rgb(49, 121, 62);
-    text-decoration-style:double;
+    text-decoration:underline;
     font-size:x-large;
-
+    font-weight: 900;
 }
 
 .menu li{
@@ -13,18 +13,65 @@
 .menu p{
     font-size: small;
     color: rgb(94, 31, 31);
+}
 
+    
+.nested li{
+    font-size: small;
+    color: rgb(94, 31, 31)
+}
 
+.special li{
+    font-size: medium;
+    color: rgb(173, 107, 63);
+}
+
+.special {
+    font-size: small;
+    color: rgb(94, 31, 31);
 }
 
 #about1{
     background-color: blueviolet;
-    color:rgb(0, 255, 174)
-    
+    color:rgb(131, 239, 165);
+    font-size: large;
 }
 
-#about2{
+.about2{
+    background-color: blueviolet;
+}
+.about2 h3{
     
-    background-color: rgb(0, 145, 255);
+    
+    color: rgb(131, 239, 165);
+    font-size: large;
 }
 
+.about2 li{
+    
+    
+    color: rgb(131, 239, 165);
+    font-size: medium;
+}
+
+.about2 p{
+    
+    
+    color: rgb(131, 239, 165);
+    font-size: small
+}
+
+img {
+    border: 10px solid rgb(231, 228, 103);
+}
+
+h1 {
+    font-family:fantasy; 
+    color: rgb(1, 176, 117);
+}
+.drinks h2{
+    color:rgb(49, 121, 62);
+    text-decoration:underline;
+    font-size:x-large;
+    font-weight: 900;
+}
