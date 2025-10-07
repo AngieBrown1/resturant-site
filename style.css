@@ -1,14 +1,30 @@
-p {
-    color: rgb(129, 141, 206); 
+.menu h2{
+    color:rgb(49, 121, 62);
+    text-decoration-style:double;
+    font-size:x-large;
+
+}
+
+.menu li{
+    font-size: medium;
+    color: rgb(173, 107, 63);
+}
+
+.menu p{
+    font-size: small;
+    color: rgb(94, 31, 31);
+
 
 }
 
 #about1{
-
-    background-color: purple;
+    background-color: blueviolet;
+    color:rgb(0, 255, 174)
+    
 }
 
 #about2{
-
-    background-color: rgb(152, 22, 94);
+    
+    background-color: rgb(0, 145, 255);
 }
+
